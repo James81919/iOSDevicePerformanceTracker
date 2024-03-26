@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-http-types",
+        "repositoryURL": "https://github.com/apple/swift-http-types.git",
+        "state": {
+          "branch": null,
+          "revision": "12358d55a3824bd5fed310b999ea8cf83a9a1a65",
+          "version": "1.0.3"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "e97a6fcb1ab07462881ac165fdbb37f067e205d5",
+          "version": "1.5.4"
+        }
+      },
+      {
+        "package": "SystemKit",
+        "repositoryURL": "https://github.com/ChangYeop-Yang/Universal-SystemKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d9f9bed8b348492723369650d6fd917eeb4e0378",
+          "version": "2.3.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
